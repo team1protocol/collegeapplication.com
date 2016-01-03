@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style type="text/css">
+body
+{
+background: url('main.png');
+margin:0px;
+padding:0px;
+}
+div
+{
+margin:0px;
+padding:0px;
+}
+#header
+{
+background:yellow;
+margin:0 auto;
+width:850px;
+height:150px;
+}
+#banner
+{
+background:;
+height:100px;
+width:848px;
+}
+#logo
+{
+float:left;
+height:98px;
+margin:0px;
+padding:0px;
+}
+#menu
+{
+
+width:848px;
+height:50px;
+background:#009688;
+border-bottom:1px solid blue
+}
+#menu ol
+{position:relative;
+left:5px;
+top:5px;
+}
+#menu li
+{
+display:block;
+float:left;
+list style:none;
+margin:5px;
+}
+#menu a
+{
+padding:5px;
+color:#e5ebe8;
+text-decoration:none;
+font-size:11px;
+font-face:arial;
+}
+#menu a:hover
+{
+color:green
+font-size:14px;
+}
+#main
+{
+width:850px;
+margin:0 auto;
+height:500px;
+background:orange;
+border-left:1px solid grey;
+border-right:1px solid grey;
+}
+#footer
+{
+width:100%;
+background:grey;
+height:250px;
+}
+#foot
+{
+width:850px;
+height:50px;
+margin:0 auto;
+background:white;
+}
+</style>
